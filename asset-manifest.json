@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gdev8584.github.io/csb-ce9wee/static/css/main.c317f47c.chunk.css",
+    "main.js": "https://gdev8584.github.io/csb-ce9wee/static/js/main.ec6706d9.chunk.js",
+    "main.js.map": "https://gdev8584.github.io/csb-ce9wee/static/js/main.ec6706d9.chunk.js.map",
+    "runtime-main.js": "https://gdev8584.github.io/csb-ce9wee/static/js/runtime-main.0acbd5db.js",
+    "runtime-main.js.map": "https://gdev8584.github.io/csb-ce9wee/static/js/runtime-main.0acbd5db.js.map",
+    "static/js/2.473c3893.chunk.js": "https://gdev8584.github.io/csb-ce9wee/static/js/2.473c3893.chunk.js",
+    "static/js/2.473c3893.chunk.js.map": "https://gdev8584.github.io/csb-ce9wee/static/js/2.473c3893.chunk.js.map",
+    "index.html": "https://gdev8584.github.io/csb-ce9wee/index.html",
+    "static/css/main.c317f47c.chunk.css.map": "https://gdev8584.github.io/csb-ce9wee/static/css/main.c317f47c.chunk.css.map",
+    "static/js/2.473c3893.chunk.js.LICENSE.txt": "https://gdev8584.github.io/csb-ce9wee/static/js/2.473c3893.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0acbd5db.js",
+    "static/js/2.473c3893.chunk.js",
+    "static/css/main.c317f47c.chunk.css",
+    "static/js/main.ec6706d9.chunk.js"
+  ]
+}
